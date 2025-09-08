@@ -1,6 +1,6 @@
 name = "GAP_pkg_kbmag_jll"
 uuid = "74c39be2-f71b-5dd1-bffc-f479ee282a63"
-version = "100.51100.0+0"
+version = "101.51100.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
