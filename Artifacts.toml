@@ -1,0 +1,86 @@
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "cb2b149332947a6b2b36a09bc1c51a0225f8feb4"
+os = "macos"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "6ef2e53591b2b9fa32fc228c8b1a55d744bdb01fb4f2027a50fbe6ef256b7593"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "3816931878b61d6589bf4bc85fda8b40faa3e4c9"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "f5b1529253c929c4bf58b808e01732309797fe6415518bb945ca777b6e0689c6"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "cd571bd97a7fde7da131cd7fec9bf408627e9505"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "315d9bacca237b60c17c948b1c9d01be114c6e18edd264eccafa225e6bd2fb9a"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "fa5ee00b399f05e4dbc7bbe3685fe441ce352138"
+os = "freebsd"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "16d0d5b8baa97ae36738051825b76bd1b567a4900ab50ab1934f90a3ac0ae11c"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "powerpc64le"
+git-tree-sha1 = "cdaee729f41da05aa3a70567720605c9f9528286"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "0f1b03d311f3ea8e42d481fcc8327f846d888535e616a2ca5226109348d3dc2b"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "riscv64"
+git-tree-sha1 = "fdbd79759262abf7a256a417a1a288cec6e6b4a9"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "bf1134696996cbb23cfb60d05ca737ddd09ebee46523608ec3f8792ceba0bfc8"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "2fd7e2bc550e92aff903b6e50cbcb9d2aee5045e"
+os = "macos"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "2ab1b68d596b7f409dfe129f169009d130b4756d6f9ce81467b5df9b15f29d1d"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "2cbb12237f27799c38a173a4e63ce0c68dc5eb9c"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "c92cfc9d72e52a97ff4a1248bfe84551ca309e2180a8faf9d5e6a7e3c3c415f7"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "8d64d184dc4edab92fd7a0839f4ae7568b049715"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "bb799016c574e3d4ba8d3e7501cb485b7149e58a93c4ca7c6b60fc0e5f03c59a"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "104ac332e9523a798c231de9f4190f9ef22edbc5"
+os = "freebsd"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "18569ee2f600d8ba6b134007500ea79fed17b4b0c0d1e0b2980ff22c2583712e"
+    url = "https://github.com/lgoettgens/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v101.51100.0+0/GAP_pkg_kbmag.v101.51100.0.x86_64-unknown-freebsd.tar.gz"
